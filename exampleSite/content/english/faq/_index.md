@@ -1,24 +1,16 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Frequently Asked Questions
+description: Find answers to common questions.
+subtitle: If you can not find the answer you are looking for, simply send me an email.
+date: 2020-06-01T06:00:29+00:00
+bg_image: images/featue-bg.jpg
+
 ---
+### You have just found the last coach you will ever need!
 
-### Welcome to Airspace!
+I am here to help.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
-
-#### 1.Overview
+#### 1. Overview
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
 neque excepturi aliquid. Eligendi, mollitia.
@@ -59,4 +51,3 @@ Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam 
 voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
 provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
 expedita, ad.
-  
