@@ -9,6 +9,7 @@ social:
   link: "#"
 - icon: ion-social-pinterest-outline
   link: "#"
+image: "/images/0708e950-99c7-46d4-863d-176022654259.jpeg"
 
 ---
 Your friendly neighborhood coach.
