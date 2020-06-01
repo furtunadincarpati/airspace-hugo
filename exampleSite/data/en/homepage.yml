@@ -63,8 +63,8 @@ funfacts:
     name: Coaching sessions received
     count: "16"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: Meditations performed
+    count: "42"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
