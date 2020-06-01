@@ -12,7 +12,7 @@ I am here to help.
 
 #### 1. Overview
 
-Coaching is not therapy.
+The first thing I need to explain is that coaching is not therapy.
 
 #### 2. Data We Collect
 
