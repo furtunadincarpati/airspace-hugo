@@ -69,12 +69,10 @@ funfacts:
     name: Practice hours
     count: "23"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Ray Ray
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: Vlad is just this guy, you know?
   - name: Randi Renin
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
