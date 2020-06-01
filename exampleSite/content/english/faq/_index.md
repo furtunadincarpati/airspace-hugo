@@ -12,8 +12,7 @@ I am here to help.
 
 #### 1. Overview
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Coaching is not therapy.
 
 #### 2. Data We Collect
 
