@@ -11,7 +11,10 @@ banner:
 about:
   enable: true
   title: About Me
-  description: Transformational coach helping you master digital age challenges.
+  description: After drowning in numbers and computer screens for years it finally
+    dawned on me that I need someting which a computer cannot provide. Connection.
+    Partnership. Intimacy. As it turns out, coaching provides all of that, and much,
+    much more!
   content: Transformational Coach-in-Training
   image: images/wrapper-img.png
 portfolio:
