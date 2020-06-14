@@ -3,7 +3,9 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   title: Transformational <br/> Coaching
-  content: Transformational coach helping you master digital age challenges.
+  content: |-
+    Go beyond the screen. <br/>
+    Become the hero of your own life.
   button:
     enable: true
     label: Book a Discovery Call
