@@ -3,7 +3,7 @@ pricing:
   enable: true
   pricing_table:
   - name: Basic
-    price: 99€
+    price: "€99"
     content: Ideal for self-discovery and overcoming small challenges.
     link: "#"
     services:
@@ -14,7 +14,7 @@ pricing:
     - Email Marketing
     - 24/7 Tech Support
   - name: Premium
-    price: 399€
+    price: "€399"
     content: Suitable for overcoming minor limiting beliefs and achieving clarity
       regarding life priorities.
     link: "#"
