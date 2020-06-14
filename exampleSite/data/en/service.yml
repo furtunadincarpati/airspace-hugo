@@ -46,9 +46,9 @@ service:
     name: Clarity
     content: 'Achieving clarity is a key process during the coaching sessions. '
   - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Imagination
+    content: Using the power of one's imagination is a great way to understand situations
+      and overcome challenges.
   - icon: ion-bug
     name: Start Up
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
