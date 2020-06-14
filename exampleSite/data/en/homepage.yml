@@ -2,9 +2,8 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: A Bla Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Transformational <br/> Coaching
+  content: Transformational coach helping you master digital age challenges.
   button:
     enable: true
     label: Discover Our Project
