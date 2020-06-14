@@ -33,9 +33,9 @@ featured_service:
       impedit repudiandae omnis est temporibus.
 service:
   enable: true
-  title: My Services
+  title: What to expect
   description: "What if you could be just as satisfied, joyful, and in the zone\nas
-    you are when playing videogames,\nwhile pursuing your real-life goals?<br>\nHow
+    you are when playing videogames, while pursuing your real-life goals?<br>\nHow
     would your life be like?<br>\n<b>I will help you find out.</b> "
   service_item:
   - icon: ion-coffee
