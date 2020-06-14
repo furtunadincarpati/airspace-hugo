@@ -42,8 +42,8 @@ service:
     content: 'Connection happens naturally if the basic requirements are offered. '
   - icon: ion-compass
     name: Clarity
-    content: Achieving clarity is one of the most common takeaways from a coaching
-      session. Clarity of thinking, emotional clarity, etc.
+    content: 'Achieving clarity is one of the most common takeaways from a coaching
+      session. '
   - icon: ion-image
     name: Imagination
     content: Using the power of one's imagination is a great way to understand situations
