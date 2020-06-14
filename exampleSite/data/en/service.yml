@@ -55,8 +55,8 @@ service:
       about a difficult situation.
   - icon: ion-headphone
     name: Listening
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: 'Deep listening is a highly needed skill, and coaches are trained as
+      master listeners. '
   - icon: ion-leaf
     name: Development
     content: Moving forward happens one step at a time. With every step into the unkown,
