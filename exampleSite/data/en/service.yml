@@ -39,7 +39,8 @@ service:
   service_item:
   - icon: ion-coffee
     name: Open mind
-    content: 'Connection happens naturally if the basic requirements are offered. '
+    content: Connection happens naturally if the basic requirements are offered. Openness,
+      patience, deep listening, and empathy.
   - icon: ion-compass
     name: Clarity
     content: 'Achieving clarity is one of the most common takeaways from a coaching
