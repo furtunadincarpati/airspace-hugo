@@ -12,8 +12,7 @@ about:
   enable: true
   title: About Me
   description: Transformational coach helping you master digital age challenges.
-  content: I am a Transformational coach helping you master digital age challenges
-    (content).
+  content: Transformational Coach-in-Training
   image: images/wrapper-img.png
 portfolio:
   enable: true
