@@ -49,8 +49,8 @@ service:
     name: Imagination
     content: Using the power of one's imagination is a great way to understand situations
       and overcome challenges.
-  - icon: ion-bug
-    name: Start Up
+  - icon: emojione-black-heart
+    name: Centering
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-headphone
