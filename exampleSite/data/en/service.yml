@@ -39,7 +39,7 @@ service:
   service_item:
   - icon: ion-coffee
     name: Openness
-    content: Connection happens naturally if the basic requirements are offered. Openness,
+    content: Connection happens when the basic requirements are present. Openness,
       patience, deep listening, empathy.
   - icon: ion-compass
     name: Clarity
