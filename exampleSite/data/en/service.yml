@@ -40,7 +40,7 @@ service:
   - icon: ion-coffee
     name: Openness
     content: Connection happens naturally if the basic requirements are offered. Openness,
-      patience, deep listening, and empathy.
+      patience, deep listening, empathy.
   - icon: ion-compass
     name: Clarity
     content: Achieving clarity is one of the most common takeaways from a coaching
