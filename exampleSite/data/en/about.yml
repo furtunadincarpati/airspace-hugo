@@ -28,7 +28,7 @@ about:
     name: Coaching sessions received
     count: "9"
   - icon: ion-ios-body-outline
-    name: Awards Winner
+    name: Hours saved
     count: "20"
 features:
   enable: true
