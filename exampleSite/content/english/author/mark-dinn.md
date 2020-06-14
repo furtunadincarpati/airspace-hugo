@@ -1,15 +1,15 @@
 ---
 title: Vlad-Emil Petrea
-email: drachencoach@gmail.com
+email: email2@example.org
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-facebook-outline
-  link: https://m.facebook.com/theDragonSoars
+  link: "#"
 - icon: ion-social-twitter-outline
-  link: https://twitter.com/theDragonSoars
+  link: "#"
 - icon: ion-social-pinterest-outline
-  link: https://www.instagram.com/thedragonsoars/
-image: "/images/0708e950-99c7-46d4-863d-176022654259.jpeg"
+  link: "#"
+description: Transformational coach helping you master digital age challenges.
 
 ---
 Your friendly neighborhood coach.
