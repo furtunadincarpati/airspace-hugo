@@ -48,7 +48,7 @@ cta:
 funfacts:
   enable: true
   title: Fun Facts
-  description: "'Start by doing it badly'"
+  description: '"Start by doing it badly!" Jordan Peterson'
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Coaching sessions performed
