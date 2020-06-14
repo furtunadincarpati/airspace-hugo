@@ -38,7 +38,7 @@ service:
     friend comes along.
   service_item:
   - icon: ion-coffee
-    name: Open mind
+    name: Openness
     content: Connection happens naturally if the basic requirements are offered. Openness,
       patience, deep listening, and empathy.
   - icon: ion-compass
