@@ -20,15 +20,13 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: YOU are Creative, Resourceful, and Whole!
+  content: |-
+    I am an entrepreneur.
+
+    I am a software developer.
+
+    I am a dancer.
   button:
     enable: true
     label: View Works
