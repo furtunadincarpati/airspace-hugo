@@ -43,9 +43,8 @@ service:
     content: Coaching is centered around listening, and you might be surprised to
       discover that you have been really longing to be listenend to.
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Clarity
+    content: 'Achieving clarity is a key process during the coaching sessions. '
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
