@@ -6,8 +6,8 @@ banner:
   content: Transformational coach helping you master digital age challenges.
   button:
     enable: true
-    label: Discover Our Project
-    link: project
+    label: Book a Discovery Call
+    link: https://calendly.com/dragoncoach/30min
 about:
   enable: true
   title: About Me
