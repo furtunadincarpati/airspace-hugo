@@ -14,8 +14,9 @@ pricing:
     - Email Marketing
     - 24/7 Tech Support
   - name: Premium
-    price: "$199"
-    content: Suitable for small businesses with up to 5 employees
+    price: "$399"
+    content: Suitable for overcoming minor limiting beliefs and achieving clarity
+      regarding life priorities.
     link: "#"
     services:
     - Unlimited agents
