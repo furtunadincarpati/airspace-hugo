@@ -12,9 +12,9 @@ banner:
 about:
   enable: true
   title: About Me
-  description: A wanderer and cofusion matrix has decided to become of help. This
-    is me.
-  content: In a land far, far away...
+  description: Transformational coach helping you master digital age challenges.
+  content: I am a Transformational coach helping you master digital age challenges
+    (content).
   image: images/wrapper-img.png
 portfolio:
   enable: true
