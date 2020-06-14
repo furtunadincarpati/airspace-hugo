@@ -26,8 +26,8 @@ pricing:
     - Email Marketing
     - 24/7 Tech Support
   - name: Advance
-    price: "$299"
-    content: Suitable for large businesses with unlimited employees
+    price: "$999"
+    content: Suitable for complex topics.
     link: "#"
     services:
     - Unlimited agents
