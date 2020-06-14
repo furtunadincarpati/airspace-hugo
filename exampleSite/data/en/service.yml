@@ -64,8 +64,8 @@ service:
       tempor incididunt ut
   - icon: ion-planet
     name: Time
-    content: Changing takes time, more than we think, often. As such, patience is
-      present throughout great a coaching session.
+    content: Change takes time, more than we think, often. As such, patience is present
+      throughout great a coaching session.
   - icon: ion-earth
     name: Exploration
     content: 'Exploring the inner world in a safe and non-judgemental way. '
