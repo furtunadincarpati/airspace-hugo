@@ -55,7 +55,7 @@ service:
     content: Moving into a place of calmness and composure, especially when talking
       about a difficult situation.
   - icon: ion-headphone
-    name: Logo Design
+    name: Listening
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-leaf
