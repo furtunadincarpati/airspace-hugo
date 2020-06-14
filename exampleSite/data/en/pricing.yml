@@ -3,8 +3,8 @@ pricing:
   enable: true
   pricing_table:
   - name: Basic
-    price: "$99"
-    content: Perfect for single freelancers who work by themselves
+    price: 99€
+    content: Ideal for self-discovery and overcoming small challenges.
     link: "#"
     services:
     - Unlimited agents
