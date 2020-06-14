@@ -63,9 +63,9 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Time
+    content: Changing takes time, more than we think, often. As such, patience is
+      present throughout great a coaching session.
   - icon: ion-earth
     name: Exploration
     content: 'Exploring the inner world in a safe and non-judgemental way. '
