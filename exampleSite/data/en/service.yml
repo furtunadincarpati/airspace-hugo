@@ -44,7 +44,8 @@ service:
       discover that you have been really longing to be listenend to.
   - icon: ion-compass
     name: Clarity
-    content: 'Achieving clarity is a key process during the coaching sessions. '
+    content: Achieving clarity is one of the most common takeaways from a coaching
+      session. Clarity of thinking, emotional clarity, etc.
   - icon: ion-image
     name: Imagination
     content: Using the power of one's imagination is a great way to understand situations
