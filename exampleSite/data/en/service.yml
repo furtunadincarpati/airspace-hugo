@@ -55,8 +55,8 @@ service:
       about a difficult situation.
   - icon: ion-headphone
     name: Listening
-    content: 'Deep listening is a highly needed skill, and coaches are trained as
-      master listeners. '
+    content: To be heard is a basic human need. Deep listening is an integral part
+      of coaching.
   - icon: ion-leaf
     name: Development
     content: Moving forward happens one step at a time. With every step into the unkown,
