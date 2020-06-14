@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: Go beyond the screen. <br/> Become the HERO of your own life.
+  title: Go beyond the screen. Become the **HERO** of your own life.
   content: ''
   button:
     enable: true
