@@ -38,7 +38,7 @@ service:
     friend comes along.
   service_item:
   - icon: ion-coffee
-    name: Open space and open mind
+    name: Open mind
     content: 'Connection happens naturally if the basic requirements are offered. '
   - icon: ion-compass
     name: Clarity
