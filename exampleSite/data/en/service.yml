@@ -60,8 +60,8 @@ service:
       tempor incididunt ut
   - icon: ion-leaf
     name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Moving forward happens one step at a time. With every step into the unkown,
+      you will discover confidence and resources which you never thought you have.
   - icon: ion-planet
     name: Time
     content: Change takes time, more than we might be inclined to believe, often.
