@@ -34,9 +34,8 @@ featured_service:
 service:
   enable: true
   title: What to expect
-  description: "What if you could be just as satisfied, joyful, and in the zone\nas
-    you are when playing videogames, while pursuing your real-life goals?<br>\nHow
-    would your life be like?<br>\n<b>I will help you find out.</b> "
+  description: A coaching session is a journey into yourself. One where a good, trusted
+    friend comes along.
   service_item:
   - icon: ion-coffee
     name: Open space and open mind
