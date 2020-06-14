@@ -32,6 +32,8 @@ portfolio:
     link: project
 service:
   enable: true
+  title: Bla Service Title
+  description: Bla Servicce description
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
