@@ -7,8 +7,8 @@ social:
   link: https://m.facebook.com/theDragonSoars
 - icon: ion-social-twitter-outline
   link: https://twitter.com/theDragonSoars
-- icon: ion-social-pinterest-outline
-  link: "#"
+- icon: ion-social-instagram-outline
+  link: https://www.instagram.com/thedragonsoars/
 image: "/images/0708e950-99c7-46d4-863d-176022654259.jpeg"
 
 ---
