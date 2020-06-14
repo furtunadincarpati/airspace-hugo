@@ -39,9 +39,10 @@ service:
     would your life be like?<br>\n<b>I will help you find out.</b> "
   service_item:
   - icon: ion-coffee
-    name: Listening
-    content: Coaching is centered around listening, and you might be surprised to
-      discover that you have been really longing to be listenend to.
+    name: Open space and open mind
+    content: Connection happens naturally if the basic requirements are offered. Openness
+      to all thoughts and feelings, patience, deep listening, and a belief that all
+      challenges can be overcome.
   - icon: ion-compass
     name: Clarity
     content: Achieving clarity is one of the most common takeaways from a coaching
