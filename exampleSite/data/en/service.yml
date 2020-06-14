@@ -43,8 +43,8 @@ service:
       patience, deep listening, and empathy.
   - icon: ion-compass
     name: Clarity
-    content: 'Achieving clarity is one of the most common takeaways from a coaching
-      session. '
+    content: Achieving clarity is one of the most common takeaways from a coaching
+      session. Clarity of thought, clarity of emotion, clarity of self.
   - icon: ion-image
     name: Imagination
     content: Using the power of one's imagination is a great way to understand situations
