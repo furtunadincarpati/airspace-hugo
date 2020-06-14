@@ -1,6 +1,6 @@
 ---
 title: Vlad-Emil Petrea
-email: email2@example.org
+email: drachencoach@gmail.com
 bg_image: images/featue-bg.jpg
 social:
 - icon: ion-social-facebook-outline
