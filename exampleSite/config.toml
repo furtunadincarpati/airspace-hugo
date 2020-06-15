@@ -71,7 +71,7 @@ name = "Service"
 weight = 3
 [[menu.main]]
 URL = "project"
-name = "Project"
+name = "Resources"
 weight = 2
 [[menu.main]]
 URL = "about"
