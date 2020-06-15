@@ -1,7 +1,7 @@
 ---
 title: What is coaching?
-date: 2020-06-13T22:00:00+00:00
-author: Vlad-Emil Petrea
+date: 2020-06-13T22:00:00.000+00:00
+author: Vlad Emil Petrea
 image: images/blog/blog-post-6.jpg
 bg_image: images/featue-bg.jpg
 categories:
