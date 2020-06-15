@@ -1,7 +1,7 @@
 ---
 title: My projects
-description: Whenever I am not coaching, I am creating web applications, building
-  a communications strategy, or allowing my creative juices to flow freely.
+description: Below you will find some coaching related resources. All copyrights belong
+  to the respective authors.
 bg_image: "/images/teams/team-2.jpg"
 
 ---
