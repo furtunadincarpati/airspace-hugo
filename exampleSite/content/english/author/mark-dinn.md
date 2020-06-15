@@ -1,5 +1,5 @@
 ---
-title: Vlad-Emil Petrea
+title: Vlad Emil Petrea
 email: drachencoach@gmail.com
 bg_image: images/featue-bg.jpg
 social:
