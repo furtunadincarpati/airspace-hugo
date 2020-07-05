@@ -37,8 +37,8 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: I offer something society does not. Self-acceptance. With that comes the
-    ability to change.
+  title: Through coaching, I offer you something society does not. **Self-acceptance**.
+    With it comes the ability to change.
   content: |-
     “The curious paradox is that when I accept myself just as I am, then I can change.”
 
