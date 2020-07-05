@@ -25,8 +25,8 @@ featured_service:
 service:
   enable: true
   title: What to expect
-  description: A coaching session is a journey into yourself. One where a good, trusted
-    friend comes along.
+  description: A coaching session is a journey into yourself. One where a resourceful,
+    trustworthy friend comes along.
   service_item:
   - icon: ion-coffee
     name: Openness
