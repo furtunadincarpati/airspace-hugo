@@ -2,15 +2,15 @@
 pricing:
   enable: true
   pricing_table:
-  - name: 15 Minutes of silence
+  - name: 15 minutes of Silence
     price: "€50"
     content: Ideal for self-discovery and overcoming small challenges.
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
+    - 'Any personal topic '
+    - No verbal or physical abuse
+    - Request a question anytime
+    - No interruptions at all
     - Email Marketing
     - 24/7 Tech Support
   - name: 30 Minutes of silence
