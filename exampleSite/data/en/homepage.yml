@@ -37,10 +37,12 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: I offer something society does not. Self-acceptance. With that comes the
+    ability to change.
+  content: |-
+    “The curious paradox is that when I accept myself just as I am, then I can change.”
+
+    ― Carl R. Rogers
   button:
     enable: true
     label: Tell Us Your Story
