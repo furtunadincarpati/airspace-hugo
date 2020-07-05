@@ -1,9 +1,9 @@
 ---
 pricing:
-  enable: false
+  enable: true
   pricing_table:
-  - name: Basic
-    price: "€99"
+  - name: 15 Minutes of silence
+    price: "€50"
     content: Ideal for self-discovery and overcoming small challenges.
     link: "#"
     services:
