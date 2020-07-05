@@ -45,7 +45,7 @@ cta:
     ― Carl R. Rogers
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Tell Me Your Story
     link: contact
 funfacts:
   enable: true
