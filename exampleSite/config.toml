@@ -124,9 +124,6 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/in/thedragonsoars"
 [[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/theDragonSoars"
 [[params.social]]
