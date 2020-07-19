@@ -76,14 +76,14 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "Vlad-Emil Petrea"
 contact_form_action = "#"
 description = ""
 email = "drachencoach@gmail.com"
 google_analitycs_id = ""
 location = "Korbgasse, 1230, Vienna"
 logo = "images/logo.png"
-mobile = "0043 (0)6506 733 755"
+mobile = "+43 (0) 6506 733 755"
 multi_author = false
 [params.gmap]
 enable = true
