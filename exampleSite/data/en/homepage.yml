@@ -54,7 +54,7 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Coaching sessions performed
-    count: "6"
+    count: "20"
   - icon: ion-ios-glasses-outline
     name: Coaching sessions received
     count: "16"
